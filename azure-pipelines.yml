@@ -24,7 +24,7 @@ variables:
   azureSubscription: 'MySubscription'
   
   # Web app name
-  webAppName: 'Mas-Dashboard'
+  webAppName: 'gmas-dashboard'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
