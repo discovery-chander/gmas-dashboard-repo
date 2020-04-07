@@ -83,8 +83,5 @@ stages:
               azureSubscription: $(azureSubscription)
               appType: webAppLinux
               appName: $(webAppName)
-<<<<<<< HEAD
               package: '$(System.ArtifactsDirectory)/drop/**/target/*.?(war|jar)'
-=======
-              package: '$(System.ArtifactsDirectory)/drop/**/target/*.?(war|jar)'
->>>>>>> d456f9c479602a96f1f71b882f16eb48e4934b58
+
